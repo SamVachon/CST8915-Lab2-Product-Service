@@ -2,3 +2,6 @@
 .env
 .env.*
 target/
+.venv/
+__pycache__/
+
